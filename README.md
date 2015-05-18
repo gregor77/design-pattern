@@ -7,7 +7,7 @@ Designe Pattern Study
  * 실제로 어떤 case에 사용하면 좋을지 생각한거 있으면 공유 
 
 * 알아야 할 것
- * Git : https://git-scm.com/book/ko/v1/Git%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0-Git%EA%B3%BC-Subversion
+ * [Git 기본 설명](https://git-scm.com/book/ko/v1/Git%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0-Git%EA%B3%BC-Subversion)
 
 * Ground Rule
  * 소통 : 단체카톡방
@@ -22,7 +22,7 @@ Designe Pattern Study
  *. 추가 인원 X -> 단, W & B & G = True
 
 * 참조 url
- [GitHub](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
- [GitHub](http://en.wikipedia.org/wiki/Proxy_pattern)
- [GitHub](https://github.com/iluwatar/java-design-patterns/tree/master/observer/src/main/java/com/iluwatar)
- [GitHub](http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+ * [Design Pattern Java Core](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
+ * [Wiki Pattern](http://en.wikipedia.org/wiki/Proxy_pattern)
+ * [GitHub Sample Project](https://github.com/iluwatar/java-design-patterns/tree/master/observer/src/main/java/com/iluwatar)
+ * [TutorialsPoint](http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
