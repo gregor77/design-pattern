@@ -1,7 +1,7 @@
 # design-pattern
 Designe Pattern Study
 
-*Study 어떻게?
+* Study 어떻게?
  * pattern 리뷰
  * 자기가 본 코드보면서 설명 및 공유
  * 실제로 어떤 case에 사용하면 좋을지 생각한거 있으면 공유 
