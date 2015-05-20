@@ -1,6 +1,10 @@
 # design-pattern
 Designe Pattern Study
 
+* Study 시간 변경
+  * 오후 5시 30분으로 시간 변경
+  * 6월 2일만 화요일로 변경
+
 * Study 어떻게?
  * pattern 리뷰
  * 자기가 본 코드보면서 설명 및 공유
