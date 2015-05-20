@@ -27,11 +27,11 @@ public class TaskObserver implements Observer, CommonNode {
 
 	@Override
 	public String getNodeName() {
-		if (Locale.LOCALE_KO.equals(locale)) {
+		if (Locale.KO.equals(locale)) {
 			name = "업무";
-		} else if (Locale.LOCALE_EN.equals(locale)) {
+		} else if (Locale.EN.equals(locale)) {
 			name = "Task";
-		} else if (Locale.LOCALE_ZH.equals(locale)) {
+		} else if (Locale.ZH.equals(locale)) {
 			name = "任務";
 		} else {
 			name = "Task";

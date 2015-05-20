@@ -1,19 +1,19 @@
 package com.design.user.psj.observer;
 
 public enum Locale {
-	LOCALE_KO("ko_KR"), LOCALE_EN("en_US"), LOCALE_ZH("zh_CN");
+	KO("ko_KR"), EN("en_US"), ZH("zh_CN");
 	
-	private String locale;
+	private String localeCode;
 	
-	Locale(String locale) {
-		this.locale = locale;
+	Locale(String localeCode) {
+		this.localeCode = localeCode;
 	}
 
-	public String getLocale() {
-		return locale;
+	public String getLocaleCode() {
+		return localeCode;
 	}
 
-	public void setLocale(String locale) {
-		this.locale = locale;
+	public void setLocale(String localeCode) {
+		this.localeCode = localeCode;
 	}
 }

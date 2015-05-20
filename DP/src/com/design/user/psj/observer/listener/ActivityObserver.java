@@ -27,11 +27,11 @@ public class ActivityObserver implements Observer, CommonNode {
 
 	@Override
 	public String getNodeName() {
-		if (Locale.LOCALE_KO.equals(locale)) {
+		if (Locale.KO.equals(locale)) {
 			name = "액티비티";
-		} else if (Locale.LOCALE_EN.equals(locale)) {
+		} else if (Locale.EN.equals(locale)) {
 			name = "Activity";
-		} else if (Locale.LOCALE_ZH.equals(locale)) {
+		} else if (Locale.ZH.equals(locale)) {
 			name = "活動";
 		} else {
 			name = "Activity";
