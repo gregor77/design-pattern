@@ -1,13 +1,18 @@
 # Awesome 디자인 패턴 시리즈
  2. Decorator 패턴
- 
+
+* 우리끼리 정의
+  * 데코레이터 패턴은 정적인 추상클래스, 구상클래스와 추상 데코레이터클래스, 구상 데코레이터들로 구성되야 한다. (클래스 다이어그램)
+  * 정적 구상클래스들끼리는 서로 꾸며줄 수 없다.
+  * 추상 데코레이터는 정적인 구상클래스를 꾸며주는 공통 메소드가 존재해야 한다.
+  * 데코레이터들 끼리는 꾸며주는 공통메소드를 반복해서 사용가능하다.
+
 * 활용 예
   1. 로그 정보 수집 -> SUNG WOO (다음 스터디까지)
      * 로그 내용이 달라지는 건 아니지만, 형식이 바꿔지기 때문에 해당 가능성 있어보인다.
      * log4j 내부 로그 출력 메소드 확인해보기
      * 로그 레벨에 따른 데코레이터들이 복수개로 존재한다.
-       ** LogLevelDecorator
-          *** ErrorLog, InfoLog, DebugLog
+       * LogLevelDecorator -> ErrorLog, InfoLog, DebugLog
   2. 인터페이스 연계 시, 공통부, 개별부 세팅 (대상아님)
      * 데코레이터 패턴은 정적인 구상클래스를 꾸며주는 부분이 있어야 하는데, 단순히 개별부 값 세팅만 하고 끝난다.
      * 정적인 추상클래스를 상속받은 복수개의 구상클래스가 없다.
@@ -16,7 +21,7 @@
 * 참조 사이트
   1. http://en.wikipedia.org/wiki/Decorator_pattern
      * Decorator 패턴의 개념에 대해서 정리된 글
-     * http://ko.wikipedia.org/wiki/데코레이터_패턴 : 번역이 잘 안되어 있다.
+     * http://ko.wikipedia.org/wiki/데코레이터_패턴 : 번역이 잘 안되어 있다. 	
   
   2. http://wiki.gurubee.net/pages/viewpage.action?pageId=1507398
      * Head First 교재내용이 간략하게 정리되어 있다.
