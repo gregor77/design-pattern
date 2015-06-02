@@ -2,8 +2,7 @@
 Designe Pattern Study
 
 * Study 시간 변경
-  * 오후 5시 30분으로 시간 변경
-  * 6월 2일만 화요일로 변경
+  * 목요일 오후 6시로 시간 변경
 
 * Study 어떻게?
  * pattern 리뷰
