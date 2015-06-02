@@ -30,3 +30,4 @@ Designe Pattern Study
  * [Wiki Pattern](http://en.wikipedia.org/wiki/Proxy_pattern)
  * [GitHub Sample Project](https://github.com/iluwatar/java-design-patterns/tree/master/observer/src/main/java/com/iluwatar)
  * [TutorialsPoint](http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+ * [Git Proxy 설정](http://gregor77.tistory.com/category/Git)
