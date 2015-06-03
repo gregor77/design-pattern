@@ -23,10 +23,11 @@ Designe Pattern Study
  * 시간 ? 1주일 한번 (수요일 5시, 1시간)
  * 장소 ? 서관 8층 회의실 잡아서 (빔 프로젝트)
  *. 추가 인원 X -> 단, W & B & G = True
-
 * 참조 url
+ * [Git 사용 실습] (http://pcottle.github.io/learnGitBranching)
+ * [Git Proxy 설정](http://gregor77.tistory.com/category/Git)
  * [Design Pattern Java Core](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
  * [Wiki Pattern](http://en.wikipedia.org/wiki/Proxy_pattern)
  * [GitHub Sample Project](https://github.com/iluwatar/java-design-patterns/tree/master/observer/src/main/java/com/iluwatar)
  * [TutorialsPoint](http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
- * [Git Proxy 설정](http://gregor77.tistory.com/category/Git)
+
