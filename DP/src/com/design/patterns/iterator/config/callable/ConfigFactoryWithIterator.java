@@ -20,6 +20,11 @@ public class ConfigFactoryWithIterator extends AbstractConfigFactory {
         printConfig(executorConfigIterator, executorConfig.getConfigList());
     }
 
+    public void printConfigUseIteratorImplements() {
+        Iterator implementsIterator = loggerConfig.creaIteratorUseIteratorImplements();
+        printConfig(implementsIterator);
+    }
+
     private void printConfig(Iterator iterator) {
         while(iterator.hasNext()) {
             Code config = (Code) iterator.next();

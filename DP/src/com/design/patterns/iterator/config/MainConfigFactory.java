@@ -17,5 +17,9 @@ public class MainConfigFactory {
         System.out.println("#### Iterator Pattern ... ####");
         ConfigFactoryWithIterator configFactoryWithIterator = new ConfigFactoryWithIterator();
         configFactoryWithIterator.printConfig();
+
+        System.out.println();
+        System.out.println("***** Use Iterator Interface ... *****");
+        configFactoryWithIterator.printConfigUseIteratorImplements();
     }
 }

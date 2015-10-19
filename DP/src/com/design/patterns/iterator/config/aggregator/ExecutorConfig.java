@@ -1,6 +1,7 @@
 package com.design.patterns.iterator.config.aggregator;
 
 import com.design.patterns.iterator.config.Code;
+import com.design.patterns.iterator.config.iterator.LoggerConfigIterator;
 import lombok.Getter;
 
 import java.util.HashMap;
