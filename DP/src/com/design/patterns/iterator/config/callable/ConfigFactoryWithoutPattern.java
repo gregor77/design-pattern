@@ -22,6 +22,5 @@ public class ConfigFactoryWithoutPattern extends AbstractConfigFactory {
         for (String key : executorConfigMap.keySet()) {
             System.out.println(executorConfigMap.get(key).toString());
         }
-
     }
 }
